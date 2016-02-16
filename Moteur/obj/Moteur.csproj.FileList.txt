@@ -1,0 +1,10 @@
+bin\Debug\Moteur.exe.config
+bin\Debug\Moteur.exe
+bin\Debug\Moteur.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Moteur.Form1.resources
+obj\Debug\Moteur.Properties.Resources.resources
+obj\Debug\Moteur.csproj.GenerateResource.Cache
+obj\Debug\Moteur.exe
+obj\Debug\Moteur.pdb
+obj\Debug\Moteur.Form2.resources

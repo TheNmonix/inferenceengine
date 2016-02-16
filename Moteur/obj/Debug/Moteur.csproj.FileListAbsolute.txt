@@ -1,0 +1,13 @@
+C:\Documents and Settings\bouchra\Mes documents\Visual Studio 2008\Projects\Moteur d'inference\Moteur dyalna\Moteur\bin\Debug\Moteur.exe.config
+C:\Documents and Settings\bouchra\Mes documents\Visual Studio 2008\Projects\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\Moteur.exe
+C:\Documents and Settings\bouchra\Mes documents\Visual Studio 2008\Projects\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\Moteur.pdb
+C:\Documents and Settings\bouchra\Mes documents\Visual Studio 2008\Projects\Moteur d'inference\Moteur dyalna\Moteur\bin\Debug\Moteur.exe
+C:\Documents and Settings\bouchra\Mes documents\Visual Studio 2008\Projects\Moteur d'inference\Moteur dyalna\Moteur\bin\Debug\Moteur.pdb
+C:\Documents and Settings\bouchra\Mes documents\Visual Studio 2008\Projects\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\bouchra\Mes documents\Visual Studio 2008\Projects\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\Moteur.Form1.resources
+C:\Documents and Settings\bouchra\Mes documents\Visual Studio 2008\Projects\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\Moteur.Form2.resources
+C:\Documents and Settings\bouchra\Mes documents\Visual Studio 2008\Projects\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\Moteur.Properties.Resources.resources
+C:\Documents and Settings\bouchra\Mes documents\Visual Studio 2008\Projects\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\Moteur.csproj.GenerateResource.Cache
+C:\Users\Najib\Desktop\Moteur dyalna\Moteur\bin\Debug\Moteur.exe.config
+C:\Users\Najib\Desktop\Moteur dyalna\Moteur\obj\Debug\Moteur.exe
+C:\Users\Najib\Desktop\Moteur dyalna\Moteur\obj\Debug\Moteur.pdb

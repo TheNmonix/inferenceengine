@@ -1,0 +1,23 @@
+C:\Moteur\Moteur\bin\Debug\Moteur.exe.config
+C:\Moteur\Moteur\obj\Debug\Moteur.exe
+C:\Moteur\Moteur\obj\Debug\Moteur.pdb
+C:\Moteur\Moteur\bin\Debug\Moteur.exe
+C:\Moteur\Moteur\bin\Debug\Moteur.pdb
+C:\Moteur\Moteur\obj\Debug\ResolveAssemblyReference.cache
+C:\Moteur\Moteur\obj\Debug\Moteur.Form1.resources
+C:\Moteur\Moteur\obj\Debug\Moteur.Form2.resources
+C:\Moteur\Moteur\obj\Debug\Moteur.Properties.Resources.resources
+C:\Moteur\Moteur\obj\Debug\Moteur.csproj.GenerateResource.Cache
+C:\Documents and Settings\MohamedYassine\Bureau\Moteur d'inference\Moteur dyalna\Moteur\bin\Debug\Moteur.exe.config
+C:\Documents and Settings\MohamedYassine\Bureau\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\Moteur.exe
+C:\Documents and Settings\MohamedYassine\Bureau\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\Moteur.pdb
+C:\Documents and Settings\MohamedYassine\Bureau\Moteur d'inference\Moteur dyalna\Moteur\bin\Debug\Moteur.exe
+C:\Documents and Settings\MohamedYassine\Bureau\Moteur d'inference\Moteur dyalna\Moteur\bin\Debug\Moteur.pdb
+C:\Documents and Settings\MohamedYassine\Bureau\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\MohamedYassine\Bureau\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\Moteur.Form1.resources
+C:\Documents and Settings\MohamedYassine\Bureau\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\Moteur.Form2.resources
+C:\Documents and Settings\MohamedYassine\Bureau\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\Moteur.Properties.Resources.resources
+C:\Documents and Settings\MohamedYassine\Bureau\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\Moteur.csproj.GenerateResource.Cache
+H:\Moteur d'inference\Moteur dyalna\Moteur\bin\Debug\Moteur.exe.config
+H:\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\Moteur.exe
+H:\Moteur d'inference\Moteur dyalna\Moteur\obj\Debug\Moteur.pdb
